@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Techout592&label=Profile%20views&color=0e75b6&style=flat" alt="Techout592" /> </p>
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/LilDerp-IsBetter?label=Followers&style=for-the-badge&color=green">
-  <iframe src="https://discord.com/widget?id=836079438579367977&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   <a href="https://discord.gg/PQXxpr9Afg" alt="Discord">
       <img src="https://img.shields.io/discord/807694513337663498?label=discord&style=for-the-badge&color=blue"/>
   </a>
