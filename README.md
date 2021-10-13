@@ -13,10 +13,10 @@
 
 <h2 align="center">
   <a href="https://github.com/RyLanEzekieL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilDerp-IsBetter&layout=compact&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyLanEzekieL&layout=compact&theme=dark">
   </a>
   <br>
   <a href="https://github.com/RyLanEzekieL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=LilDerp-IsBetter&show_icons=true&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RyLanEzekieL&show_icons=true&theme=dark">
   </a>
 </h2>
