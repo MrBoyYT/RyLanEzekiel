@@ -11,6 +11,9 @@
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-040a16?style=for-the-badge&logo=css3">
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-040a16?style=for-the-badge&logo=javascript">
   </div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=RyLanEzekieL">
+</a>
 
   - 🔭 I’m Currently Working On [NeronX](https://neronx.myvnc.com/)
 
