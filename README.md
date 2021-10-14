@@ -3,7 +3,6 @@
   <h1 style="font-weight: bold;">👋 I'm Ryaln EzekieL</h1>
   <h2>A Random Developer From India</h2>
   <br/>
-  ![Profile View](https://komarev.com/ghpvc/?username=RyLanEzekieL&color=green)
   <h3>Languages That I Know</h3>
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-040a16?style=for-the-badge&logo=python">
