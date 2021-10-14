@@ -2,7 +2,6 @@
 <div align="center">
   <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
   <h2>A Random Developer From India</h2>
-  <h4>Check out my website https://robert-s.dev for my recent work.</h4>
   <br/>
   <h3>Languages</h3>
   <div>
