@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rylan_Ezekiel</h1>
-<h3 align="center">Just A Random Dude Who Loves To Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rylanezekiel&label=Profile%20views&color=0e75b6&style=flat" alt="rylanezekiel" /> </p>
+<div align="center">
+  <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
+  <h2>A Random Developer From India</h2>
+  <h4>Check out my website https://robert-s.dev for my recent work.</h4>
+  <br/>
+  <h3>Languages</h3>
+  <div>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-040a16?style=for-the-badge&logo=python">
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-040a16?style=for-the-badge&logo=postgresql">
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-040a16?style=for-the-badge&logo=html5">
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-040a16?style=for-the-badge&logo=css3">
+    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-040a16?style=for-the-badge&logo=javascript">
+  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rylanezekiel" alt="rylanezekiel" /></a> </p>
-
-- 🔭 I’m Currently Working On [NeronX](https://neronx.myvnc.com/)
+  - 🔭 I’m Currently Working On [NeronX](https://neronx.myvnc.com/)
 
 - 🌱 I’m Currently Learning **Python And Php**
 
@@ -13,23 +21,27 @@
 
 - ⚡ Tip **If Possible Check Out NeronX Discord Bot !**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/PQXxpr9Afg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PQXxpr9Afg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rylanezekiel&show_icons=true&locale=en&layout=compact" alt="rylanezekiel" /></p>
-
-<br/>
+  
+  <h3>Frameworks & Programs</h3>
   <div>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wallvon&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=040a16">
+
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-040a16?style=for-the-badge&logo=linux">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-040a16?style=for-the-badge&logo=github">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-040a16?style=for-the-badge&logo=bootstrap">
+  </div>
+
+  <h3>Currently learning</h3>
+  <div>
+    <img alt="Go" src="https://img.shields.io/badge/-Go-040a16?style=for-the-badge&logo=go">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-040a16?style=for-the-badge&logo=rust">
+    <img alt="React" src="https://img.shields.io/badge/-React-040a16?style=for-the-badge&logo=react">
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-040a16?style=for-the-badge&logo=next.js">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-040a16?style=for-the-badge&logo=docker">
   </div>
   <br/>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rylanezekiel&show_icons=true&locale=en" alt="rylanezekiel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rylanezekiel&" alt="rylanezekiel" /></p>
-
+  <div>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RyLanEzekieL&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=040a16">
+  </div>
+  <br/>
+  <h4>You Can Contact Me On Discord <code>Rylan_Ezekiel#5741</code>Or Join Discord Server<a href="mailto:https://discord.gg/PQXxpr9Afg">here</a></h4>
+</div>
