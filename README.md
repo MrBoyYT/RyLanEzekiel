@@ -3,7 +3,7 @@
   <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
   <h2>A Random Developer From India</h2>
   <br/>
-  <h3>Languages</h3>
+  <h3>Languages That I Know</h3>
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-040a16?style=for-the-badge&logo=python">
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-040a16?style=for-the-badge&logo=postgresql">
@@ -29,13 +29,10 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-040a16?style=for-the-badge&logo=bootstrap">
   </div>
 
-  <h3>Currently learning</h3>
+  <h3>Currently Learning</h3>
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-040a16?style=for-the-badge&logo=python">
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-040a16?style=for-the-badge&logo=rust">
-    <img alt="React" src="https://img.shields.io/badge/-React-040a16?style=for-the-badge&logo=react">
-    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-040a16?style=for-the-badge&logo=next.js">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-040a16?style=for-the-badge&logo=docker">
+    <img alt="PhP" src="https://img.shields.io/badge/-Php-040a16?style=for-the-badge&logo=php">
   </div>
   <br/>
   <div>
