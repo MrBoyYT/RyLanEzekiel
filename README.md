@@ -39,5 +39,5 @@
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RyLanEzekieL&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=040a16">
   </div>
   <br/>
-  <h4>You Can Contact Me On Discord <code>Rylan_Ezekiel#5741</code>Or Join Discord Server<a href="mailto:https://discord.gg/PQXxpr9Afg">here</a></h4>
+  <h4>You Can Contact Me On Discord <code>Rylan_Ezekiel#5741</code>Or Join Discord Server => <a href="https://discord.gg/PQXxpr9Afg">Click Here</a></h4>
 </div>
