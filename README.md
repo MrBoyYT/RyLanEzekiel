@@ -11,7 +11,7 @@
 
 - 📫 How To Reach Me **https://discord.gg/PQXxpr9Afg**
 
-- ⚡ Fun fact **Sometimes I Am Lazy To Code !**
+- ⚡ Tip **If Possible Check Out NeronX Discord Bot !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
