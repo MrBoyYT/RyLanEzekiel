@@ -4,6 +4,7 @@
   <a href="https://discord.gg/PQXxpr9Afg" alt="Discord">
       <img src="https://img.shields.io/discord/807694513337663498?label=discord&style=for-the-badge&color=blue"/>
   </a>
+  Hi I am Rylan Ezekiel
   <a href="https://neronx.myvnc.com/" alt="Website">
       <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwillfp.com"/>
   </a>
