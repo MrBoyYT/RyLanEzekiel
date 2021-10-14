@@ -23,6 +23,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rylanezekiel&show_icons=true&locale=en&layout=compact" alt="rylanezekiel" /></p>
 
+<br/>
+  <div>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wallvon&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=040a16">
+  </div>
+  <br/>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rylanezekiel&show_icons=true&locale=en" alt="rylanezekiel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rylanezekiel&" alt="rylanezekiel" /></p>
