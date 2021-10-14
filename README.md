@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="font-weight: bold;">👋 I'm Robert S.</h1>
+  <h1 style="font-weight: bold;">👋 I'm Ryaln EzekieL</h1>
   <h2>A Random Developer From India</h2>
   <br/>
   <h3>Languages That I Know</h3>
